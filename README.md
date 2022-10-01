@@ -1,5 +1,5 @@
 **<h3 align="left">Hi, I'm Bella 👋</h1>**
-- 😺 aspiring backend developer from Berlin
+- 😺 aspiring software developer from Berlin
 - 👩‍🎓 freshly graduated from Le Wagon fullstack coding bootcamp
 - 👩‍💻 find my projects and more on my [portfolio](https://www.notion.so/isabellhammer/Portfolio-Isabell-Hammer-00d85627a5a94de3aca28c0ac81f09b4?v=3a0798e8e1ed45fdb40e70e1590e6802)
 
